@@ -8,7 +8,7 @@
 
 `cleaning/` ... ideas how to tidy up the data
 
-`import_data/` ... taking significant amounts of self-logged hitchhiking experiences and bringing it into the [hitchhikin data standard](https://github.com/Hitchwiki/hitchhiking-data-standard) to be imported there in bulk & fetching hitchhiking data from other sources and integrating it with the main dataset of hitchhiking rides.
+`import_data/` ... taking significant amounts of self-logged hitchhiking experiences and bringing it into the [hitchhiking data standard](https://github.com/Hitchwiki/hitchhiking-data-standard) to be imported there in bulk & fetching hitchhiking data from other sources and integrating it with the main dataset of hitchhiking rides.
 
 `routing` ... experiments for route finding when hitchhiking
 
